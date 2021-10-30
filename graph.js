@@ -1,3 +1,8 @@
+/*
+to understand this module wath this video or see the blog
+https://fireship.io/courses/javascript/interview-graphs/
+*/
+
 const nodes = 'A B C D F L M O P R S T Z'.split(' ');
 
 const routes = [
@@ -28,10 +33,6 @@ function addNode(node) {
 }
 // adding edges
 function addEdge(origin, destination,weight) {
-    // tempObj1 = {};
-    // tempObj2 = {};
-    // tempObj1[destination] = weight;
-    // tempObj2[origin]=weight;
     adjacencyList.get(origin).push([destination,weight]);
     adjacencyList.get(destination).push([origin,weight]);
 }
