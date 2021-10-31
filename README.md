@@ -82,8 +82,8 @@ how to run code
 * https://fireship.io/courses/javascript/interview-graphs/
 
 * if you find any problem feel free to contact me at 
-* ![Gmail](kashifghafoor140@gmail.com)
-* ![Twitter](https://twitter.com/_kashifghafoor)
-* ![LinkedIn](https://www.linkedin.com/in/kashif-ghafoor-347b5918b/)
+* (kashifghafoor140@gmail.com)
+* (https://twitter.com/_kashifghafoor)
+* (https://www.linkedin.com/in/kashif-ghafoor-347b5918b/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
